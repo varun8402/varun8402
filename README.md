@@ -1,7 +1,8 @@
-Hey there, I’m Varun!<br>🌟 A passionate Full Stack Developer and AI enthusiast who loves solving complex problems and building real-world applications.<br><br><br>
+#Hey there👋, 
+I’m Varun!<br>🌟 A passionate Full Stack Developer and AI enthusiast who loves solving complex problems and building real-world applications.<br><br><br>
 
 # 💫 About Me:
-👋 • 🔥 Full Stack Developer (MERN) with a strong foundation in Data Structures and Algorithms (DSA).<br>	•	🎯 Currently building AI-powered MERN stack projects and real-time collaborative platforms.<br>	•	🛠️ Always excited to work on challenging backend systems, socket programming, and scalable web architectures.<br>	•	🤖 Love blending Artificial Intelligence into traditional development workflows (RAG systems, AI bots, etc.)<br>	•	🧠 Lifelong learner with a strong belief in continuous self-improvement.<br>	•	💬 Open to collaborating on open-source projects and Hackathons.<br>	•	🎨 Passionate about designing clean UIs and intuitive user experiences.<br>	•	🌍 Dreaming of creating tools that empower communities and solve real-world problems.
+• 🔥 Full Stack Developer (MERN) with a strong foundation in Data Structures and Algorithms (DSA).<br>	•	🎯 Currently building AI-powered MERN stack projects and real-time collaborative platforms.<br>	•	🛠️ Always excited to work on challenging backend systems, socket programming, and scalable web architectures.<br>	•	🤖 Love blending Artificial Intelligence into traditional development workflows (RAG systems, AI bots, etc.)<br>	•	🧠 Lifelong learner with a strong belief in continuous self-improvement.<br>	•	💬 Open to collaborating on open-source projects and Hackathons.<br>	•	🎨 Passionate about designing clean UIs and intuitive user experiences.<br>	•	🌍 Dreaming of creating tools that empower communities and solve real-world problems.
 
 <h3 align="left">Connect with me: varunmarwah@gmail.com </h3>
 <p align="left">
