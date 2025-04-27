@@ -4,8 +4,8 @@ I’m Varun!<br>🌟 A passionate Full Stack Developer and AI enthusiast who lov
 # 💫 About Me:
 • 🔥 Full Stack Developer (MERN) with a strong foundation in Data Structures and Algorithms (DSA).<br>	•	🎯 Currently building AI-powered MERN stack projects and real-time collaborative platforms.<br>	•	🛠️ Always excited to work on challenging backend systems, socket programming, and scalable web architectures.<br>	•	🤖 Love blending Artificial Intelligence into traditional development workflows (RAG systems, AI bots, etc.)<br>	•	🧠 Lifelong learner with a strong belief in continuous self-improvement.<br>	•	💬 Open to collaborating on open-source projects and Hackathons.<br>	•	🎨 Passionate about designing clean UIs and intuitive user experiences.<br>	•	🌍 Dreaming of creating tools that empower communities and solve real-world problems.
 
-<h3 align="left">Connect with me: varunmarwah@gmail.com </h3>
-<p align="left">
+<h3 align="center">Connect with me: varunmarwah@gmail.com </h3>
+<p align="center">
 <a href="https://linkedin.com/in/varun-marwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-marwah" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/varun_108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="varun_108" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/varun_8402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="varun_8402" height="30" width="40" /></a>
@@ -26,4 +26,3 @@ I’m Varun!<br>🌟 A passionate Full Stack Developer and AI enthusiast who lov
 ---
 [![](https://visitcount.itsvg.in/api?id=varun8402&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
