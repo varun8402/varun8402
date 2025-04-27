@@ -69,9 +69,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun8402&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varun8402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varun8402&theme=github-dark-dimmed" height="150" alt="activity-graph graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=varun8402&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varun8402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varun8402&theme=github-dark-dimmed" height="170" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=varun8402&theme=tokyonight&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
