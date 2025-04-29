@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Varun Marwah</h2>
+<h1 align="center">Hi 👋 ! <br>My name is Varun Marwah </h1><br>
 
 ###
 
-<h2 align="left">💫 About Me:</h2>
+<h1 align="left">💫 About Me:</h1>
 
 ###
 
@@ -16,6 +16,7 @@
     • 🎨 Passionate about designing clean UIs and intuitive user experiences.<br>
     • 🌍 Dreaming of creating tools that empower communities and solve real-world problems.
   </p>
+<h2></h2>
 
 ###
 
@@ -23,7 +24,10 @@
   <img src="https://profile-counter.glitch.me/varun8402/count.svg?"  />
 </div>
 
+<h2></h2>
+
 ###
+
 <div align ="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
@@ -45,6 +49,7 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> 
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render"> 
 </div>
+<h2></h2>
 <br><br>
 
 ###
