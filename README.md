@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 ! <br>My name is Varun Marwah </h1><br>
+<h1 align="center">Hi 👋 ! <br>It's Varun </h1><br>
 
 ###
 
