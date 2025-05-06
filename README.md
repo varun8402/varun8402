@@ -31,43 +31,43 @@
 <div align="center">
 
 <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="39" alt="cplusplus logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="39" alt="express logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="39" alt="nodejs logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="39" alt="mongodb logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" alt="mysql logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="39" alt="docker logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://ejs.co/" target="_blank"><img src="https://img.icons8.com/color/48/ejs.png" width="40" height="40" alt="EJS" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://firebase.google.com/" target="_blank"><img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="40" height="40" alt="Firebase" /></a>
-<img width="28" />
+<img width = "20" />
 <a href="https://jwt.io/" target="_blank"><img src="https://jwt.io/img/pic_logo.svg" width="40" height="40" alt="JWT" /></a>
 </div>
 <h2></h2>
