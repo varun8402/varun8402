@@ -31,43 +31,43 @@
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="39" alt="cplusplus logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="39" alt="express logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="39" alt="nodejs logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="39" alt="mongodb logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" alt="mysql logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="39" alt="docker logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
-  <img width="20" />
+  <img width = "28" />
   <img src="https://img.icons8.com/color/48/ejs.png"  width="40" height="40" alt="EJS"/>
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img width="20" />
+  <img width = "28" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img width="20" />
+  <img width = "28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40"/>
-  <img width="20" />
+  <img width = "28" />
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-  <img width="20" />
+  <img width = "28" />
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg"  width="40" height="40" alt="Firebase"/>
-  <img width="20" />
+  <img width = "28" />
   <img src="https://jwt.io/img/pic_logo.svg"  width="40" height="40" alt="JWT"/>
 </div>
 <h2></h2>
