@@ -7,8 +7,8 @@
 ###
 
 <p align="left">
-    • 🔥 Full Stack Developer (MERN) with a strong foundation in Data Structures and Algorithms (DSA).<br>
-    • 🎯 Currently building AI-powered MERN stack projects and real-time collaborative platforms.<br>
+    • 🔥 Full Stack Developer with a strong foundation in Data Structures and Algorithms (DSA).<br>
+    • 🎯 Currently building Web and AI-powered projects and real-time collaborative platforms.<br>
     • 🛠️ Always excited to work on challenging backend systems, socket programming, and scalable web architectures.<br>
     • 🤖 Love blending Artificial Intelligence into traditional development workflows (RAG systems, AI bots, etc.)<br>
     • 🧠 Lifelong learner with a strong belief in continuous self-improvement.<br>
