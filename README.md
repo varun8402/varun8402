@@ -20,9 +20,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/varun8402/count.svg?"  />
-</div>
+![](https://komarev.com/ghpvc/?username=varun8402&color=518783&style=flat-square)
+
 
 <h2></h2>
 
